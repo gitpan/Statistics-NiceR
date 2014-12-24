@@ -1,5 +1,5 @@
 package Statistics::NiceR::Inline::TypeInfo;
-$Statistics::NiceR::Inline::TypeInfo::VERSION = '0.02';
+$Statistics::NiceR::Inline::TypeInfo::VERSION = '0.03';
 use strict;
 use warnings;
 use Storable;
@@ -31,7 +31,7 @@ Statistics::NiceR::Inline::TypeInfo
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

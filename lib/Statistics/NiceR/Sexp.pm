@@ -1,5 +1,5 @@
 package Statistics::NiceR::Sexp;
-$Statistics::NiceR::Sexp::VERSION = '0.02';
+$Statistics::NiceR::Sexp::VERSION = '0.03';
 use strict;
 use warnings;
 
@@ -40,7 +40,7 @@ Statistics::NiceR::Sexp
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 

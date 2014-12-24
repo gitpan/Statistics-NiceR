@@ -24,10 +24,12 @@ requires:
   Capture::Tiny: 0
   Data::Frame: 0
   File::Basename: 0
+  File::Glob: 0
   File::Slurp::Tiny: 0
   File::Spec: 0
   File::Spec::Functions: 0
   File::Which: 0
+  IPC::Cmd: 0
   Inline: 0
   List::AllUtils: 0
   PDL::Core::Dev: 0
@@ -49,4 +51,4 @@ resources:
   IRC: irc://irc.perl.org/#pdl
   homepage: https://github.com/zmughal/p5-Statistics-NiceR
   repository: https://github.com/zmughal/p5-Statistics-NiceR.git
-version: 0.02
+version: 0.03

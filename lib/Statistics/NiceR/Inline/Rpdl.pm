@@ -1,5 +1,5 @@
 package Statistics::NiceR::Inline::Rpdl;
-$Statistics::NiceR::Inline::Rpdl::VERSION = '0.02';
+$Statistics::NiceR::Inline::Rpdl::VERSION = '0.03';
 use strict;
 use warnings;
 use PDL::LiteF;
@@ -29,7 +29,7 @@ Statistics::NiceR::Inline::Rpdl
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 AUTHOR
 
