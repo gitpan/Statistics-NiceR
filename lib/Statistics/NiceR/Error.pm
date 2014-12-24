@@ -1,5 +1,5 @@
 package Statistics::NiceR::Error;
-$Statistics::NiceR::Error::VERSION = '0.01';
+$Statistics::NiceR::Error::VERSION = '0.02';
 use strict;
 use warnings;
 
@@ -19,7 +19,7 @@ Statistics::NiceR::Error
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

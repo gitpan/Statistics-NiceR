@@ -1,5 +1,5 @@
 package Statistics::NiceR::DataConvert::Factor;
-$Statistics::NiceR::DataConvert::Factor::VERSION = '0.01';
+$Statistics::NiceR::DataConvert::Factor::VERSION = '0.02';
 use strict;
 use warnings;
 
@@ -66,7 +66,7 @@ Statistics::NiceR::DataConvert::Factor
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

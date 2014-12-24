@@ -10,7 +10,6 @@ dist.ini
 example/ex00.pl
 example/ex01.pl
 example/ex02.pl
-example/ex03.pl
 lib/Statistics/NiceR.pm
 lib/Statistics/NiceR/Backend/EmbeddedR.pm
 lib/Statistics/NiceR/DataConvert.pm

@@ -56,7 +56,7 @@ my %WriteMakefileArgs = (
     "PDL::IO::Dumper" => 0,
     "Test::Most" => 0
   },
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "postamble" => {
     "inline" => {
       "ilsm" => [

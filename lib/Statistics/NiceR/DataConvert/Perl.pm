@@ -1,5 +1,5 @@
 package Statistics::NiceR::DataConvert::Perl;
-$Statistics::NiceR::DataConvert::Perl::VERSION = '0.01';
+$Statistics::NiceR::DataConvert::Perl::VERSION = '0.02';
 use strict;
 use warnings;
 
@@ -134,7 +134,7 @@ Statistics::NiceR::DataConvert::Perl
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

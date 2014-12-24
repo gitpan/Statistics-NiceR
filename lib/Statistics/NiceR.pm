@@ -1,6 +1,6 @@
 package Statistics::NiceR;
 # ABSTRACT: interface to the R programming language
-$Statistics::NiceR::VERSION = '0.01';
+$Statistics::NiceR::VERSION = '0.02';
 
 use strict;
 use warnings;
@@ -63,7 +63,7 @@ Statistics::NiceR - interface to the R programming language
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

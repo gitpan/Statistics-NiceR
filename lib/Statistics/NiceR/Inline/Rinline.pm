@@ -1,5 +1,5 @@
 package Statistics::NiceR::Inline::Rinline;
-$Statistics::NiceR::Inline::Rinline::VERSION = '0.01';
+$Statistics::NiceR::Inline::Rinline::VERSION = '0.02';
 use strict;
 use warnings;
 use File::Basename;
@@ -47,7 +47,7 @@ Statistics::NiceR::Inline::Rinline
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 

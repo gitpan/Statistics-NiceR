@@ -1,6 +1,6 @@
 package Statistics::NiceR::Backend::EmbeddedR;
 # ABSTRACT: manages the embedded R interpreter
-$Statistics::NiceR::Backend::EmbeddedR::VERSION = '0.01';
+$Statistics::NiceR::Backend::EmbeddedR::VERSION = '0.02';
 use strict;
 use warnings;
 
@@ -35,7 +35,7 @@ Statistics::NiceR::Backend::EmbeddedR - manages the embedded R interpreter
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 
